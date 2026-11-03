@@ -277,7 +277,7 @@ Nếu gặp lại lỗi, gửi file này cùng output các lệnh kiểm tra và
 >
 > Tôi từng gặp lỗi NVIDIA kernel module không được build cho kernel mới sau khi cập nhật Ubuntu.
 >
-> Hãy đọc tài liệu NVIDIA_DRIVER_RECOVERY.md và phân tích tình trạng hiện tại của máy dựa trên output tôi cung cấp.
+> Hãy đọc tài liệu README.md và phân tích tình trạng hiện tại của máy dựa trên output tôi cung cấp.
 >
 > Hướng dẫn tôi khôi phục NVIDIA driver từng bước, ưu tiên giữ nguyên CUDA Toolkit, PyTorch, Docker và DeepStream.
 >
