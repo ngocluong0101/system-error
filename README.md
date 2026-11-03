@@ -269,7 +269,7 @@ echo "========== NVIDIA-SMI =========="
 nvidia-smi
 ```
 
-## 8. Prompt gửi ChatGPT lần sau
+## 8. Prompt gửi AI lần sau
 
 Nếu gặp lại lỗi, gửi file này cùng output các lệnh kiểm tra và sử dụng prompt:
 
